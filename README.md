@@ -1,4 +1,4 @@
-Got it! Here’s a refined README focused on the broader requirements and features without diving into specific files. 
+Here’s the revised README with the **Design Prototypes** section placed before **Installation** and including placeholders for two images each for the low-fidelity and high-fidelity designs.
 
 ---
 
@@ -15,11 +15,18 @@ Got it! Here’s a refined README focused on the broader requirements and featur
 - **Profile Management** – Easily update profile details like name, contact information, and bio.
 - **Notifications** – Get updates on order status and receive exclusive offers.
 
+## 📐 Design Prototypes
+
+| Low-Fidelity Design          | High-Fidelity Design         |
+|------------------------------|------------------------------|
+| ![Low Fidelity 1](harshendrdam/) | ![High Fidelity 1](path/to/high_fidelity_1.png) |
+| ![Low Fidelity 2](path/to/low_fidelity_2.png) | ![High Fidelity 2](path/to/high_fidelity_2.png) |
+
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- **iOS 14.0+**
+- **iOS 13.0+**
 - **Swift 5**
 - **Xcode 12 or above**
 
@@ -38,16 +45,8 @@ Got it! Here’s a refined README focused on the broader requirements and featur
 
 3. **Build and Run** – Select your device simulator in Xcode and hit `Run`.
 
-## 📸 Design Prototypes
-
-| Low-Fidelity Design | High-Fidelity Design |
-|---------------------|----------------------|
-| ![Low Fidelity 1](path/to/low_fidelity1.jpeg) | ![High Fidelity](path/to/high_fidelity.png) |
-
 ---
 
 Enjoy convenient, on-campus food ordering with SnackSwift! 🥡
 
 ---
-
-Replace the paths for design images and repository links as needed. Let me know if there's anything more!

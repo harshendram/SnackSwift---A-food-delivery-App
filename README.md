@@ -16,7 +16,7 @@
 | Low-Fidelity Design          | High-Fidelity Design         |
 |------------------------------|------------------------------|
 | ![Low Fidelity 1](https://github.com/harshendram/SnackSwift-A-Food-Delivery-App/blob/main/lowfidelity1.jpg) | ![High Fidelity 1](path/to/high_fidelity_1.png) |
-| ![Low Fidelity 2]([path/to/low_fidelity_2.png](https://github.com/harshendram/SnackSwift-A-Food-Delivery-App/blob/main/lowfidelity2.jpg)| ![High Fidelity 2](path/to/high_fidelity_2.png) |
+| ![Low Fidelity 2](https://github.com/harshendram/SnackSwift-A-Food-Delivery-App/blob/main/lowfidelity2.jpg)| ![High Fidelity 2](path/to/high_fidelity_2.png) |
 
 ## 🚀 Getting Started
 

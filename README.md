@@ -1,6 +1,6 @@
 # SnackSwift 🍱📲
 
-**SnackSwift** is a college intrainstitutional project for on-campus food delivery. Built with Swift for iOS, SnackSwift provides a smooth and intuitive experience for users wanting to order food on campus with ease.
+**SnackSwift** is a *college intrainstitutional project* for on-campus food delivery. Built with Swift for iOS, SnackSwift provides a smooth and intuitive experience for users wanting to order food on campus with ease.
 
 ## 📲 Features
 

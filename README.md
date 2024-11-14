@@ -1,7 +1,3 @@
-Here’s the revised README with the **Design Prototypes** section placed before **Installation** and including placeholders for two images each for the low-fidelity and high-fidelity designs.
-
----
-
 # SnackSwift 🍱📲
 
 **SnackSwift** is a college intrainstitutional project for on-campus food delivery. Built with Swift for iOS, SnackSwift provides a smooth and intuitive experience for users wanting to order food on campus with ease.
@@ -19,7 +15,7 @@ Here’s the revised README with the **Design Prototypes** section placed before
 
 | Low-Fidelity Design          | High-Fidelity Design         |
 |------------------------------|------------------------------|
-| ![Low Fidelity 1](harshendrdam/) | ![High Fidelity 1](path/to/high_fidelity_1.png) |
+| ![Low Fidelity 1]([harshendrdam/](https://github.com/harshendram/SnackSwift-A-Food-Delivery-App/blob/main/lowfidelity1.jpg) | ![High Fidelity 1](path/to/high_fidelity_1.png) |
 | ![Low Fidelity 2](path/to/low_fidelity_2.png) | ![High Fidelity 2](path/to/high_fidelity_2.png) |
 
 ## 🚀 Getting Started
